@@ -1,0 +1,146 @@
+{
+  "friends": [
+    {
+      "accountId": "ApfelTeeSaft",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-16T18:25:49.549Z"
+    },
+    {
+      "accountId": "Apfel",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-16T18:33:24.199Z"
+    },
+    {
+      "accountId": "ApfelTeeSaft1",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-16T18:34:33.578Z"
+    },
+    {
+      "accountId": "ApfelTee",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-16T19:58:02.035Z"
+    },
+    {
+      "accountId": "Server",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-16T20:18:04.724Z"
+    },
+    {
+      "accountId": "server",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-16T21:25:54.431Z"
+    },
+    {
+      "accountId": "ApfelTeeSaft2",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-16T23:16:47.420Z"
+    },
+    {
+      "accountId": "Apfel2",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-16T23:27:03.355Z"
+    },
+    {
+      "accountId": "apfel",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-17T09:02:31.172Z"
+    },
+    {
+      "accountId": "Apfel3",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-17T11:42:46.948Z"
+    },
+    {
+      "accountId": "Client1",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-17T19:46:09.342Z"
+    },
+    {
+      "accountId": "Client2",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-17T19:47:17.405Z"
+    },
+    {
+      "accountId": "Markiplier",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-18T20:58:23.886Z"
+    },
+    {
+      "accountId": "Apfel1",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-29T11:17:16.223Z"
+    },
+    {
+      "accountId": "Apfel23",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-29T11:18:17.253Z"
+    }
+  ],
+  "incoming": [],
+  "outgoing": [],
+  "suggested": [],
+  "blocklist": [],
+  "settings": {
+    "acceptInvites": "public"
+  }
+}

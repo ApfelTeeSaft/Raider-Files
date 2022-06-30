@@ -1,0 +1,107 @@
+[
+  {
+    "accountId": "ApfelTeeSaft",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-16T18:25:49.549Z",
+    "favorite": false
+  },
+  {
+    "accountId": "Apfel",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-16T18:33:24.199Z",
+    "favorite": false
+  },
+  {
+    "accountId": "ApfelTeeSaft1",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-16T18:34:33.578Z",
+    "favorite": false
+  },
+  {
+    "accountId": "ApfelTee",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-16T19:58:02.035Z",
+    "favorite": false
+  },
+  {
+    "accountId": "Server",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-16T20:18:04.724Z",
+    "favorite": false
+  },
+  {
+    "accountId": "server",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-16T21:25:54.431Z",
+    "favorite": false
+  },
+  {
+    "accountId": "ApfelTeeSaft2",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-16T23:16:47.420Z",
+    "favorite": false
+  },
+  {
+    "accountId": "Apfel2",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-16T23:27:03.355Z",
+    "favorite": false
+  },
+  {
+    "accountId": "apfel",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-17T09:02:31.172Z",
+    "favorite": false
+  },
+  {
+    "accountId": "Apfel3",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-17T11:42:46.948Z",
+    "favorite": false
+  },
+  {
+    "accountId": "Client1",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-17T19:46:09.342Z",
+    "favorite": false
+  },
+  {
+    "accountId": "Client2",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-17T19:47:17.405Z",
+    "favorite": false
+  },
+  {
+    "accountId": "Markiplier",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-18T20:58:23.886Z",
+    "favorite": false
+  },
+  {
+    "accountId": "Apfel1",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-29T11:17:16.223Z",
+    "favorite": false
+  },
+  {
+    "accountId": "Apfel23",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-29T11:18:17.253Z",
+    "favorite": false
+  }
+]
