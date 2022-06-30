@@ -1,0 +1,42 @@
+[13-04-2022 10:54:55] [ DEBUG ] :: Window found with title: 'UnrealWindow'
+[13-04-2022 10:54:55] [ DEBUG ] :: HWnd of MainWindow: 0x8081a
+[13-04-2022 10:54:55] [ DEBUG ] :: Raw input registered
+[13-04-2022 10:54:55] [ DEBUG ] :: Hook set to XInputGetState
+[13-04-2022 10:54:55] [ DEBUG ] :: Hook set to GetMessageA
+[13-04-2022 10:54:55] [ DEBUG ] :: Hook set to GetMessageW
+[13-04-2022 10:54:55] [ DEBUG ] :: Hook set to PeekMessageA
+[13-04-2022 10:54:55] [ DEBUG ] :: Hook set to PeekMessageW
+[13-04-2022 10:54:55] [  UUU  ] :: All hooks enabled.
+[13-04-2022 10:54:55] [USERMSG] :: Processing AOB blocks. This can take a while...
+[13-04-2022 10:54:55] [ DEBUG ] :: Pattern for block 'AOB_ALLOWCHEATSCALL' found at address: 00007FF60708DE76
+[13-04-2022 10:54:55] [ DEBUG ] :: Pattern for block 'AOB_CALL_TO_STATICCONSTRUCTOBJECT_INTERNAL' found at address: 00007FF604EF1208
+[13-04-2022 10:54:55] [ DEBUG ] :: Pattern for block 'AOB_CAMERA_BLACKBARS_REMOVAL1' found at address: 00007FF6057A4B2C
+[13-04-2022 10:54:55] [ DEBUG ] :: Pattern for block 'AOB_CAMERA_BLACKBARS_REMOVAL2' found at address: 00007FF6057AAAEC
+[13-04-2022 10:54:55] [ DEBUG ] :: Pattern for block 'AOB_CAMERA_BLACKBARS_REMOVAL3' found at address: 00007FF605A09A2C
+[13-04-2022 10:54:55] [ DEBUG ] :: Pattern for block 'AOB_CAMERA_LOCKED_FOV_READ' found at address: 00007FF60709CC11
+[13-04-2022 10:54:55] [ DEBUG ] :: Can't find pattern for block 'AOB_CAMERA_MENU_WRITE_INTERCEPT'! Hook not set.
+[13-04-2022 10:54:55] [ DEBUG ] :: Pattern for block 'AOB_CAMERA_STRUCT_INTERCEPT1' found at address: 00007FF6057A4AEA
+[13-04-2022 10:54:55] [ DEBUG ] :: Pattern for block 'AOB_CAMERA_STRUCT_INTERCEPT2' found at address: 00007FF6057AAAAA
+[13-04-2022 10:54:55] [ DEBUG ] :: Pattern for block 'AOB_CAMERA_STRUCT_INTERCEPT3' found at address: 00007FF605A099EA
+[13-04-2022 10:54:55] [ DEBUG ] :: Can't find pattern for block 'AOB_CAMERA_WRITE_INTERCEPT'! Hook not set.
+[13-04-2022 10:54:55] [ DEBUG ] :: Pattern for block 'AOB_ENABLE_SET_COMMAND' found at address: 00007FF606E6A618
+[13-04-2022 10:54:55] [ DEBUG ] :: Pattern for block 'AOB_ENGINEVERSION' found at address: 00007FF604D92990
+[13-04-2022 10:54:55] [ DEBUG ] :: Pattern for block 'AOB_GAMEVIEWPORTCLIENT_VIEWPORTCONSOLE_OFFSET' found at address: 00007FF60724117F
+[13-04-2022 10:54:55] [ DEBUG ] :: Pattern for block 'AOB_GENGINE' found at address: 00007FF60724117F
+[13-04-2022 10:54:55] [ DEBUG ] :: Pattern for block 'AOB_GENGINE_VIEWPORTCLIENT_OFFSET' found at address: 00007FF60724117F
+[13-04-2022 10:54:55] [ DEBUG ] :: Pattern for block 'AOB_GET_TIMEDILATION' found at address: 00007FF60723CEF0
+[13-04-2022 10:54:55] [ DEBUG ] :: Can't find pattern for block 'AOB_GET_TIMEDILATION_411'! Hook not set.
+[13-04-2022 10:54:55] [ DEBUG ] :: Pattern for block 'AOB_INPUTSETTINGS_CONSOLEKEYS_OFFSET' found at address: 00007FF607228693
+[13-04-2022 10:54:56] [ DEBUG ] :: Pattern for block 'AOB_NAMESSTORE' found at address: 00007FF60607C00D
+[13-04-2022 10:54:56] [ DEBUG ] :: Pattern for block 'AOB_OBJECTSSTORE' found at address: 00007FF60613CD26
+[13-04-2022 10:54:56] [ DEBUG ] :: Pattern for block 'AOB_UWORLD_ISPAUSED' found at address: 00007FF606F251B8
+[13-04-2022 10:54:56] [ DEBUG ] :: Pattern for block 'AOB_WIDGETOPACITYSET' found at address: 00007FF606263F9D
+[13-04-2022 10:54:56] [  UUU  ] :: All critical AOB offsets found.
+[13-04-2022 10:54:56] [USERMSG] :: Processing AOB blocks done.
+[13-04-2022 10:54:56] [ DEBUG ] :: CurrentVersion address: 0x7ff604d92996
+[13-04-2022 10:54:56] [  UUU  ] :: The UUU will assume the game uses UE4 version: v4.20.00
+[13-04-2022 10:54:56] [ DEBUG ] :: GEngine variable address: 0x7ff609a5d3d8
+[13-04-2022 10:54:56] [ DEBUG ] :: GEngine address: 0x28e5f6610f0
+[13-04-2022 10:54:56] [ DEBUG ] :: StaticConstructObject_Internal() address: 0x7ff6061bec20
+[13-04-2022 10:54:56] [ DEBUG ] :: g_GameEngine_ViewPortClientOffset: 0x728
+[13-04-2022 10:54:56] [ DEBUG ] :: g_GameViewportClient_ViewportConsoleOffset: 0x40
